@@ -15,7 +15,7 @@ MonoBehaviour:
   _assemblies:
   - 0Harmony.dll
   - Juno Harmony.dll
-  _author: ComplexRockets, Aram, ChaoticGraviton
+  _author: ComplexRockets, ChaoticGraviton, Aram
   _description: 'Juno Harmony provides Andreas Pardeike''s Harmony patching library
     for any mod projects that require them. Current Harmony version: 2.2.2.0'
   _loadPriority: 1
